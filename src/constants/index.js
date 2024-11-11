@@ -1,20 +1,13 @@
 import {
-
-
-
   javascript,
-
   html,
   css,
   reactjs,
   redux,
   tailwind,
-
   git,
   figma,
   docker,
-
-  tripguide,
   threejs,
   nextjs,
   threejsicon,
@@ -165,12 +158,12 @@ const experiences = [
 
 const projects = [
   {
-    name: "Ochi",
+    name: "Ochi.Design",
     description:
       "Recreated a visually stunning Ochi.design inspired web app with smooth scrolling and dynamic animations. Focused on design and creating an immersive user experience.",
     tags: [
       {
-        name: "react",
+        name: "reactJS",
         color: "blue-text-gradient",
       },
       {
@@ -186,12 +179,12 @@ const projects = [
     source_code_link: "https://github.com/Khushal-prasad/Ochi.design",
   },
   {
-    name: "Job IT",
+    name: "Spotify Music Web-App",
     description:
       "Built a fully functional Spotify-inspired web app with play, pause, skip, and navigation controls. Designed an interactive and intuitive UI for a seamless music experience.",
     tags: [
       {
-        name: "react",
+        name: "reactJS",
         color: "blue-text-gradient",
       },
       {
@@ -208,20 +201,20 @@ const projects = [
       "I developed this portfolio website to showcase my work, featuring a fully functional, responsive design with a visually appealing, user-friendly experience.",
     tags: [
       {
-        name: "nextjs",
+        name: "reactJS",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "threeJS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Khushal-prasad/Khushal_portfolio_website",
   },
 ];
 
